@@ -1,4 +1,6 @@
-### A Local Home Page for OSX Web Development
+### A Local Home Page for Linux Web Development
+
+Forked from my favorite blog posting so that I can mod the scripts to suit my Linux box.  Please see the original repo and blog post for more info.
 
 This is a small and simple local home page that automatically lists, and provide links to, your local sites. It's a companion project for a [blog post](http://mallinson.ca/post/osx-web-development) I wrote about setting up your Mac for web development.
 
